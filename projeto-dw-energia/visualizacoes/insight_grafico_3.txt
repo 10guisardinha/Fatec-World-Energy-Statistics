@@ -1,0 +1,3 @@
+INSIGHT — Gráfico 3: Mapa de Calor da Participação Renovável por Período
+
+O mapa de calor revela padrões de evolução da matriz renovável ao longo de três períodos históricos. Países como Noruega e Colômbia mantiveram alta participação renovável de forma consistente, enquanto nações como Alemanha, Espanha e Austrália apresentaram crescimento progressivo, especialmente a partir do período 2008-2015, coincidindo com a redução de custos da energia solar e eólica. O aquecimento das cores do período 2016-2023 em relação a 2000-2007 é visível para a maioria dos países, confirmando a tendência global de transição energética. As células mais claras (baixo % renovável) concentradas em economias dependentes de petróleo e carvão indicam onde a transformação ainda precisa avançar.

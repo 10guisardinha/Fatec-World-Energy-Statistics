@@ -1,0 +1,3 @@
+INSIGHT — Gráfico 1: Evolução da Matriz Energética do Brasil
+
+O Brasil manteve historicamente uma matriz elétrica predominantemente renovável, sustentada pela hidroeletricidade, com participação renovável acima de 80% em todo o período analisado. A energia solar, praticamente inexistente em 2000, passou por crescimento exponencial a partir de 2012, reflexo das políticas de incentivo fiscal e leilões de energia promovidos pela ANEEL. A participação de combustíveis fósseis apresentou tendência de queda consistente, evidenciando a transição energética em curso no país. Esse movimento posiciona o Brasil como referência em energias limpas entre países emergentes de grande porte.
